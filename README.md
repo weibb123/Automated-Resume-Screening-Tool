@@ -1,4 +1,6 @@
 # Automated-Resume-Screening-Tool
+![image](https://github.com/weibb123/Automated-Resume-Screening-Tool/assets/84426364/779ea42d-d892-404f-8296-c14f9569d793)
+
 Streamlit that use OPENAI MODEL to create resume screening tools
 tech stack used: langchain, openai, streamlit, scikit-learn, chromadb, tiktoken, PyPDF2. You can find versions in <b> requirements.txt </b>
 
