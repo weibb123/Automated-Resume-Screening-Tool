@@ -11,7 +11,8 @@ stream run app.py
 ## Motivation
 As I am doing my own job search, sometimes the job description leaves me confuse or not knowing if I am qualify for the postition. Hence, it leaves me the motivation to imeplment a LLM system to understand 
 my qualifiation with my resume. <b>Here is a flowchart of the pipepline. </b>
-https://file.notion.so/f/f/0f68b445-c614-4869-9b6e-26712255f069/b2c408c1-cc4e-4515-b6e2-19893d4bf9fa/Untitled.png?id=5237b641-70ed-4270-8adb-452901e3bb2c&table=block&spaceId=0f68b445-c614-4869-9b6e-26712255f069&expirationTimestamp=1703289600000&signature=LZ8lSvqC7AO7mxyVM7IaxihHCYP48tvm5JRUwZ-jEzM&downloadName=Untitled.png
+![image](https://github.com/weibb123/Automated-Resume-Screening-Tool/assets/84426364/5fe0e26b-c6cf-4f99-a9ab-b0d40fc8e506)
+
 
 <ul> Description should identify candidates key skills, experience levels, job role suitability </ul>
 
